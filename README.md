@@ -1,5 +1,3 @@
-git # Instructions
-
 ## Task
 
 You've learned how to create controlled components and forms in React.
