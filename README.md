@@ -10,7 +10,7 @@ The form is provided in an uncontrolled fashion and contains the following input
 - Email
 - Password
 - Role
-- 
+  
 ![Alt text](images/image1.png)
 
 ## Steps
