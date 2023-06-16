@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/creating-a-registration-form/static/css/main.6751d428.css",
+    "main.js": "/creating-a-registration-form/static/js/main.64172afb.js",
+    "static/js/787.18600648.chunk.js": "/creating-a-registration-form/static/js/787.18600648.chunk.js",
+    "index.html": "/creating-a-registration-form/index.html",
+    "main.6751d428.css.map": "/creating-a-registration-form/static/css/main.6751d428.css.map",
+    "main.64172afb.js.map": "/creating-a-registration-form/static/js/main.64172afb.js.map",
+    "787.18600648.chunk.js.map": "/creating-a-registration-form/static/js/787.18600648.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6751d428.css",
+    "static/js/main.64172afb.js"
+  ]
+}
