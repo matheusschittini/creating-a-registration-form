@@ -1,15 +1,6 @@
-This is a project of the 
-
+This is a project of the  Advanced React Module of the Meta Front-End Developer Professional Certificate. The idea of this project was to create controlled components and forms, in React, for a restaurant.
 You've learned how to create controlled components and forms in React.
 Now it's time to put that knowledge to use and create a registration form for a restaurant, where users are able to sign up.
-
-The form layout and styling is already predefined for you. You have to add the missing pieces of code to make the form work as per the requirements.
-The form is provided in an uncontrolled fashion and contains the following inputs:
-- First Name
-- Last Name
-- Email
-- Password
-- Role
   
 ![Alt text](images/image1.png)
 
