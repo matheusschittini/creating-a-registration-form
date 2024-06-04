@@ -1,6 +1,4 @@
-# Instructions
-
-## Task
+This is a project of the 
 
 You've learned how to create controlled components and forms in React.
 Now it's time to put that knowledge to use and create a registration form for a restaurant, where users are able to sign up.
